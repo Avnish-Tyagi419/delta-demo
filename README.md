@@ -5,4 +5,4 @@ This is Demo for Git &amp; GitHub Class
 Shradha Khapra
 
 # Student
-Avnish Tyagi(Sigma Batch)
+Avnish Tyagi
